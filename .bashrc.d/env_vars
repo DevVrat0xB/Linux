@@ -1,0 +1,4 @@
+### GENERAL ###
+HISTCONTROL=ignoreboth
+
+### WAYFIRE ###
